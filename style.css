@@ -1,0 +1,16 @@
+*{
+    background-color: #f0ffff;
+}
+button{
+    color: #00008b;
+    border: 1px solid #00008b;
+}
+
+button:hover{
+    color: #6495ed;
+    border: 1px solid #6495ed;
+}
+
+h1{
+    color: #0101b6;
+}
